@@ -1,5 +1,5 @@
 class Cat
-  attr_accessor :jinks
+  attr_accessor :maru
   
   def meow
     puts "meow!"
